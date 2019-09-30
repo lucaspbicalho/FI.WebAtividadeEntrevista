@@ -1,5 +1,10 @@
 ﻿
 $(document).ready(function () {
+
+    $("#CPF").focus(function () {
+        $("#CPF").inputmask("mask", { "mask": "999.999.999-99" }, { reverse: true });
+    });
+
     if (obj) {
         $('#formCadastro #Nome').val(obj.Nome);
         $('#formCadastro #CEP').val(obj.CEP);
@@ -21,6 +26,7 @@ $(document).ready(function () {
             data: {
                 "NOME": $(this).find("#Nome").val(),
                 "CEP": $(this).find("#CEP").val(),
+                "CPF": $(this).find("#CPF").val(),
                 "Email": $(this).find("#Email").val(),
                 "Sobrenome": $(this).find("#Sobrenome").val(),
                 "Nacionalidade": $(this).find("#Nacionalidade").val(),

@@ -16,3 +16,8 @@ C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.
 C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
 C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
 C:\Trabalho\TestePratico\FI.WebAtividadeEntrevista\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\Lucas\Documents\Visual Studio 2019\projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\Lucas\Documents\Visual Studio 2019\projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\Lucas\Documents\Visual Studio 2019\projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2019\projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\Lucas\Documents\Visual Studio 2019\projetos\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
